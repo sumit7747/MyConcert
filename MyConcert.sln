@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyConcert", "MyConcert\MyConcert.csproj", "{FF825F39-2EFA-4F3C-B5F6-0ECE5034969A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyConcert-with-angular", "MyConcert\MyConcert-with-angular.csproj", "{FF825F39-2EFA-4F3C-B5F6-0ECE5034969A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

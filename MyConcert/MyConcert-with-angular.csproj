@@ -215,13 +215,9 @@
     <Compile Include="Migrations\201802211318170_InitialModel.Designer.cs">
       <DependentUpon>201802211318170_InitialModel.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201802211423543_create-concert-table.cs" />
-    <Compile Include="Migrations\201802211423543_create-concert-table.Designer.cs">
-      <DependentUpon>201802211423543_create-concert-table.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201802211449407_applydataannotations-on-concert-genre.cs" />
-    <Compile Include="Migrations\201802211449407_applydataannotations-on-concert-genre.Designer.cs">
-      <DependentUpon>201802211449407_applydataannotations-on-concert-genre.cs</DependentUpon>
+    <Compile Include="Migrations\201802211836468_seeddata.cs" />
+    <Compile Include="Migrations\201802211836468_seeddata.Designer.cs">
+      <DependentUpon>201802211836468_seeddata.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountBindingModels.cs" />
@@ -304,11 +300,8 @@
     <EmbeddedResource Include="Migrations\201802211318170_InitialModel.resx">
       <DependentUpon>201802211318170_InitialModel.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201802211423543_create-concert-table.resx">
-      <DependentUpon>201802211423543_create-concert-table.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201802211449407_applydataannotations-on-concert-genre.resx">
-      <DependentUpon>201802211449407_applydataannotations-on-concert-genre.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201802211836468_seeddata.resx">
+      <DependentUpon>201802211836468_seeddata.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
